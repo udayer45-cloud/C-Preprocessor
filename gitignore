@@ -1,0 +1,14 @@
+# Compiled binary
+myPreprocessor
+
+# Preprocessor output files
+helpfile.i
+inputfile.i
+
+# Object files
+*.o
+
+# Editor temp files
+*.swp
+*.swo
+.vscode/
